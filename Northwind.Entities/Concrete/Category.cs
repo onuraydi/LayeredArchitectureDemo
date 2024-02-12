@@ -13,7 +13,7 @@ namespace Northwind.Entities.Concrete
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Key]
-        public int CatagoryID { get; set; }
+        public int CategoryID { get; set; }
         public string CategoryName { get; set; }
     }
 }
