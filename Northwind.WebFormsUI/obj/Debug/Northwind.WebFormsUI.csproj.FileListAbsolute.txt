@@ -20,3 +20,6 @@ C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.W
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CopyComplete
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb
+C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
+C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
+C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
