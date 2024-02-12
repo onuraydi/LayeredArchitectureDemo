@@ -23,3 +23,5 @@ C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\obj\Debug\Northwind.W
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml

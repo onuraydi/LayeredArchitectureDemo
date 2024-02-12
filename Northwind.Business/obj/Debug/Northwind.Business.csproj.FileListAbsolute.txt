@@ -21,3 +21,5 @@ C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.Business\bin\Debug\System.Thread
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\ONUR\Desktop\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.xml
